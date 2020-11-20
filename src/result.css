@@ -1,0 +1,26 @@
+.result-main{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding:15px;
+    margin: 10px;
+    height:25vh;
+    width:100%;
+    background-color: none;
+}
+
+.results{
+
+    color:#4facfe;
+    margin:20px;
+    padding:20px;
+    height:16vh;
+    width:50%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1.4rem 8rem rgba(0,0,0,0.2);
+    background-color:#fff;
+}

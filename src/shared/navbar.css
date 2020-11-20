@@ -1,0 +1,10 @@
+.navbar{
+    height:100%;
+    width:100%;
+    text-align: center;
+    color: #4facfe;
+    background-color: #fff;
+    font-size: 20px;
+    box-shadow: 0 1.4rem 8rem rgba(0,0,0,0.2);
+
+}

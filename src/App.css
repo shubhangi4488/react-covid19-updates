@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Lato",sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.7;
+    background-color: white;
+    
+}
+
+@media only screen and (max-width:1024px){
+    .navbar{
+        height: 125%;
+    }
+
+    .footer{
+        height: 125%;
+        margin-top: 23.5%;
+    }
+    
+}
+
+@media only screen and (max-width:375px){
+    .result-main{
+        padding: 0px;
+        margin:0px;
+    }
+}
+
+@media only screen and (max-width:320px){
+    
+    .result-main{
+        padding: 0px;
+        margin: 0px;
+    }
+    .results{
+        margin:9px;
+    }
+}
